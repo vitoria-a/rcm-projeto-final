@@ -1,0 +1,12 @@
+{
+  "name": "detective",
+  "displayName": "detective",
+  "expo": {
+    "name": "detective",
+    "slug": "detective",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
